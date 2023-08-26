@@ -1,2 +1,2 @@
-# University
-Python Code
+# print 
+print(message)
